@@ -1,7 +1,7 @@
-# 42_fils_de_fer
+# 42_fil_de_fer
 A computer graphics project for the 42 curriculum. The first of many.
 
-*Fils de fer* is French for "wire-frame models".
+*Fil de fer* is French for "wire-frame models".
 
 It envolves learning how to call functions in the [X11 windowing system](https://en.wikipedia.org/wiki/X_Window_System) through the [Minilibx API](https://github.com/42paris/minilibx-linux.git) and involves ```-lm``` to calculate pixel coordinates that render 3D points onto the 2D screen pixel by pixel through multiple perspectives and rotation.
 
@@ -13,7 +13,7 @@ It envolves learning how to call functions in the [X11 windowing system](https:/
 
 Clone with the generator submodules
 ```sh
-git clone --recurse-submodules https://github.com/Dowiw/42_fils_de_fer.git
+git clone --recurse-submodules https://github.com/Dowiw/42_fil_de_fer.git
 ```
 
 Tested with:
