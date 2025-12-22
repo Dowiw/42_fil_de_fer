@@ -19,8 +19,14 @@
 #  define M_PI 3.14159265358979323846
 # endif
 
-# define WIN_W 1920
-# define WIN_H 1080
+// hope it wont break
+# ifndef WIN_W
+#  define WIN_W 1920
+# endif
+
+# ifndef
+#  define WIN_H 1080
+# endif
 
 // enumeration of events that are represented in mlx
 typedef enum e_event
