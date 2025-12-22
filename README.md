@@ -25,9 +25,16 @@ To compile ```./fdf```:
 ```sh
 make
 ```
+
 To compile binary with additonal features:
 ```sh
 make bonus
+```
+
+In the case where libraries are missing:
+```sh
+sudo apt-get update
+sudo apt-get install libbsd-dev
 ```
 
 To test:
