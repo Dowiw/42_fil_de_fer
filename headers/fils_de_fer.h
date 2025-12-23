@@ -24,7 +24,7 @@
 #  define WIN_W 1920
 # endif
 
-# ifndef
+# ifndef WIN_H
 #  define WIN_H 1080
 # endif
 
